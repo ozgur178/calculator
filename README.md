@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/ozgurmacit178/PandoraMVC_V2/_apis/build/status/ozgur178.calculator?branchName=master)](https://dev.azure.com/ozgurmacit178/PandoraMVC_V2/_build/latest?definitionId=2&branchName=master)
